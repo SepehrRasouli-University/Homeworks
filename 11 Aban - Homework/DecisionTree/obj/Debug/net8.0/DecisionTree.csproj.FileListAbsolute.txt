@@ -1,0 +1,14 @@
+/home/sepehr/Homework/DecisionTree/bin/Debug/net8.0/DecisionTree
+/home/sepehr/Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.deps.json
+/home/sepehr/Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.runtimeconfig.json
+/home/sepehr/Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.dll
+/home/sepehr/Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.pdb
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.AssemblyInfoInputs.cache
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.AssemblyInfo.cs
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.dll
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/refint/DecisionTree.dll
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.pdb
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.genruntimeconfig.cache
+/home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/ref/DecisionTree.dll

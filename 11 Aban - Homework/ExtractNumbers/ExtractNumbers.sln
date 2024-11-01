@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractNumbers", "ExtractNumbers.csproj", "{B23BF1C4-A595-46D7-A58C-5EC48B31E5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23BF1C4-A595-46D7-A58C-5EC48B31E5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23BF1C4-A595-46D7-A58C-5EC48B31E5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23BF1C4-A595-46D7-A58C-5EC48B31E5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23BF1C4-A595-46D7-A58C-5EC48B31E5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA4F3F0-E6D1-41A9-A600-59B59C5D25CE}
+	EndGlobalSection
+EndGlobal

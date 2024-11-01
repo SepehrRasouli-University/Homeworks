@@ -1,0 +1,14 @@
+/home/sepehr/Homework/MirrorNumber/bin/Debug/net8.0/MirrorNumber
+/home/sepehr/Homework/MirrorNumber/bin/Debug/net8.0/MirrorNumber.deps.json
+/home/sepehr/Homework/MirrorNumber/bin/Debug/net8.0/MirrorNumber.runtimeconfig.json
+/home/sepehr/Homework/MirrorNumber/bin/Debug/net8.0/MirrorNumber.dll
+/home/sepehr/Homework/MirrorNumber/bin/Debug/net8.0/MirrorNumber.pdb
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.AssemblyInfoInputs.cache
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.AssemblyInfo.cs
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.dll
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/refint/MirrorNumber.dll
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.pdb
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/MirrorNumber.genruntimeconfig.cache
+/home/sepehr/Homework/MirrorNumber/obj/Debug/net8.0/ref/MirrorNumber.dll

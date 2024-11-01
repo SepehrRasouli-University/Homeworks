@@ -1,0 +1,14 @@
+/home/sepehr/Homework/TakeNumbersAsInput/bin/Debug/net8.0/TakeNumbersAsInput
+/home/sepehr/Homework/TakeNumbersAsInput/bin/Debug/net8.0/TakeNumbersAsInput.deps.json
+/home/sepehr/Homework/TakeNumbersAsInput/bin/Debug/net8.0/TakeNumbersAsInput.runtimeconfig.json
+/home/sepehr/Homework/TakeNumbersAsInput/bin/Debug/net8.0/TakeNumbersAsInput.dll
+/home/sepehr/Homework/TakeNumbersAsInput/bin/Debug/net8.0/TakeNumbersAsInput.pdb
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.AssemblyInfoInputs.cache
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.AssemblyInfo.cs
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.dll
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/refint/TakeNumbersAsInput.dll
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.pdb
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/TakeNumbersAsInput.genruntimeconfig.cache
+/home/sepehr/Homework/TakeNumbersAsInput/obj/Debug/net8.0/ref/TakeNumbersAsInput.dll

@@ -1,0 +1,14 @@
+/home/sepehr/Homework/TakeCharacterAsInput/bin/Debug/net8.0/TakeCharacterAsInput
+/home/sepehr/Homework/TakeCharacterAsInput/bin/Debug/net8.0/TakeCharacterAsInput.deps.json
+/home/sepehr/Homework/TakeCharacterAsInput/bin/Debug/net8.0/TakeCharacterAsInput.runtimeconfig.json
+/home/sepehr/Homework/TakeCharacterAsInput/bin/Debug/net8.0/TakeCharacterAsInput.dll
+/home/sepehr/Homework/TakeCharacterAsInput/bin/Debug/net8.0/TakeCharacterAsInput.pdb
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.AssemblyInfoInputs.cache
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.AssemblyInfo.cs
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.dll
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/refint/TakeCharacterAsInput.dll
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.pdb
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/TakeCharacterAsInput.genruntimeconfig.cache
+/home/sepehr/Homework/TakeCharacterAsInput/obj/Debug/net8.0/ref/TakeCharacterAsInput.dll
