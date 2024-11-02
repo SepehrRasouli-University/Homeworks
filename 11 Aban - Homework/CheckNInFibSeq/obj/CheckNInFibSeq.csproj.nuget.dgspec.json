@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sepehr/Homework/CheckNInFibSeq/CheckNInFibSeq.csproj": {}
+    "/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/CheckNInFibSeq.csproj": {}
   },
   "projects": {
-    "/home/sepehr/Homework/CheckNInFibSeq/CheckNInFibSeq.csproj": {
+    "/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/CheckNInFibSeq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sepehr/Homework/CheckNInFibSeq/CheckNInFibSeq.csproj",
+        "projectUniqueName": "/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/CheckNInFibSeq.csproj",
         "projectName": "CheckNInFibSeq",
-        "projectPath": "/home/sepehr/Homework/CheckNInFibSeq/CheckNInFibSeq.csproj",
+        "projectPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/CheckNInFibSeq.csproj",
         "packagesPath": "/home/sepehr/.nuget/packages/",
-        "outputPath": "/home/sepehr/Homework/CheckNInFibSeq/obj/",
+        "outputPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sepehr/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sepehr/Homework/DecisionTree/DecisionTree.csproj",
+      "projectUniqueName": "/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/DecisionTree.csproj",
       "projectName": "DecisionTree",
-      "projectPath": "/home/sepehr/Homework/DecisionTree/DecisionTree.csproj",
+      "projectPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/DecisionTree.csproj",
       "packagesPath": "/home/sepehr/.nuget/packages/",
-      "outputPath": "/home/sepehr/Homework/DecisionTree/obj/",
+      "outputPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sepehr/.nuget/NuGet/NuGet.Config"

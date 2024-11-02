@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtractNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205bf95dab155e0c25608693c8d26c6f5e113c3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f2a81596d19008d3d7ae400f88f70cd514c3ad5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtractNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtractNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,18 @@
 /home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.pdb
 /home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.genruntimeconfig.cache
 /home/sepehr/Homework/DecisionTree/obj/Debug/net8.0/ref/DecisionTree.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/bin/Debug/net8.0/DecisionTree
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.deps.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.runtimeconfig.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/bin/Debug/net8.0/DecisionTree.pdb
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.AssemblyInfoInputs.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.AssemblyInfo.cs
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.sourcelink.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/refint/DecisionTree.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.pdb
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/DecisionTree.genruntimeconfig.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/DecisionTree/obj/Debug/net8.0/ref/DecisionTree.dll

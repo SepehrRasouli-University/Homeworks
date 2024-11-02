@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sepehr/Homework/MirrorNumber/MirrorNumber.csproj": {}
+    "/home/sepehr/Homework/Homework/11 Aban - Homework/MirrorNumber/MirrorNumber.csproj": {}
   },
   "projects": {
-    "/home/sepehr/Homework/MirrorNumber/MirrorNumber.csproj": {
+    "/home/sepehr/Homework/Homework/11 Aban - Homework/MirrorNumber/MirrorNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sepehr/Homework/MirrorNumber/MirrorNumber.csproj",
+        "projectUniqueName": "/home/sepehr/Homework/Homework/11 Aban - Homework/MirrorNumber/MirrorNumber.csproj",
         "projectName": "MirrorNumber",
-        "projectPath": "/home/sepehr/Homework/MirrorNumber/MirrorNumber.csproj",
+        "projectPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/MirrorNumber/MirrorNumber.csproj",
         "packagesPath": "/home/sepehr/.nuget/packages/",
-        "outputPath": "/home/sepehr/Homework/MirrorNumber/obj/",
+        "outputPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/MirrorNumber/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sepehr/.nuget/NuGet/NuGet.Config"

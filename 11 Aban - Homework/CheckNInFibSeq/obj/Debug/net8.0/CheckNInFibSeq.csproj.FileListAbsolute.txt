@@ -12,3 +12,18 @@
 /home/sepehr/Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.pdb
 /home/sepehr/Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.genruntimeconfig.cache
 /home/sepehr/Homework/CheckNInFibSeq/obj/Debug/net8.0/ref/CheckNInFibSeq.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/bin/Debug/net8.0/CheckNInFibSeq
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/bin/Debug/net8.0/CheckNInFibSeq.deps.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/bin/Debug/net8.0/CheckNInFibSeq.runtimeconfig.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/bin/Debug/net8.0/CheckNInFibSeq.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/bin/Debug/net8.0/CheckNInFibSeq.pdb
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.AssemblyInfoInputs.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.AssemblyInfo.cs
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.sourcelink.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/refint/CheckNInFibSeq.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.pdb
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/CheckNInFibSeq.genruntimeconfig.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/CheckNInFibSeq/obj/Debug/net8.0/ref/CheckNInFibSeq.dll

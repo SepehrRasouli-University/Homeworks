@@ -18,19 +18,25 @@ void main(){
 bool guess_number(int a1,int a2){
     // a1 > a2
     int middle = (int)Math.Ceiling((double) ((a1-a2)/2));
-    int c = a2+middle;    
-    if ((a1-a2) == 1){
-        Console.WriteLine("\nYour number is " + a1);
-        return true;
+    if (middle==0){
+        if (a1==100){
+            Console.WriteLine("\nYour number is 100");
+            return true;
+        }
+        else
+        {
+            Console.WriteLine("\n Your number is 1");
+        }
     }
+    int c = a2+middle;    
     Console.WriteLine("\nIs your number bigger or smaller than " + c + " ? [Press y if bigger, n if smaller, e if equal]");
-    Console.WriteLine("\n"+a1 + " "+a2 + " "+middle+"  "+c+"");
     char y_n = Console.ReadKey().KeyChar;
     if (y_n.ToString() == "y"){
         guess_number(a1,c);
         return true;
     }
     else if (y_n.ToString() == "n"){
+        Console.WriteLine("\nYour number is 1");
         guess_number(c,a2);
         return true;
     }
