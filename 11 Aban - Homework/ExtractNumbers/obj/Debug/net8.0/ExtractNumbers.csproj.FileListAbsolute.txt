@@ -12,3 +12,18 @@
 /home/sepehr/Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.pdb
 /home/sepehr/Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.genruntimeconfig.cache
 /home/sepehr/Homework/ExtractNumbers/obj/Debug/net8.0/ref/ExtractNumbers.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/bin/Debug/net8.0/ExtractNumbers
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/bin/Debug/net8.0/ExtractNumbers.deps.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/bin/Debug/net8.0/ExtractNumbers.runtimeconfig.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/bin/Debug/net8.0/ExtractNumbers.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/bin/Debug/net8.0/ExtractNumbers.pdb
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.AssemblyInfoInputs.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.AssemblyInfo.cs
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.sourcelink.json
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/refint/ExtractNumbers.dll
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.pdb
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ExtractNumbers.genruntimeconfig.cache
+/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/Debug/net8.0/ref/ExtractNumbers.dll

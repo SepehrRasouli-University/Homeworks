@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sepehr/Homework/PrimeNumberChecker/PrimeNumberChecker.csproj": {}
+    "/home/sepehr/Homework/Homework/11 Aban - Homework/PrimeNumberChecker/PrimeNumberChecker.csproj": {}
   },
   "projects": {
-    "/home/sepehr/Homework/PrimeNumberChecker/PrimeNumberChecker.csproj": {
+    "/home/sepehr/Homework/Homework/11 Aban - Homework/PrimeNumberChecker/PrimeNumberChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sepehr/Homework/PrimeNumberChecker/PrimeNumberChecker.csproj",
+        "projectUniqueName": "/home/sepehr/Homework/Homework/11 Aban - Homework/PrimeNumberChecker/PrimeNumberChecker.csproj",
         "projectName": "PrimeNumberChecker",
-        "projectPath": "/home/sepehr/Homework/PrimeNumberChecker/PrimeNumberChecker.csproj",
+        "projectPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/PrimeNumberChecker/PrimeNumberChecker.csproj",
         "packagesPath": "/home/sepehr/.nuget/packages/",
-        "outputPath": "/home/sepehr/Homework/PrimeNumberChecker/obj/",
+        "outputPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/PrimeNumberChecker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sepehr/.nuget/NuGet/NuGet.Config"

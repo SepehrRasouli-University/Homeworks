@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sepehr/Homework/ExtractNumbers/ExtractNumbers.csproj",
+      "projectUniqueName": "/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/ExtractNumbers.csproj",
       "projectName": "ExtractNumbers",
-      "projectPath": "/home/sepehr/Homework/ExtractNumbers/ExtractNumbers.csproj",
+      "projectPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/ExtractNumbers.csproj",
       "packagesPath": "/home/sepehr/.nuget/packages/",
-      "outputPath": "/home/sepehr/Homework/ExtractNumbers/obj/",
+      "outputPath": "/home/sepehr/Homework/Homework/11 Aban - Homework/ExtractNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sepehr/.nuget/NuGet/NuGet.Config"
