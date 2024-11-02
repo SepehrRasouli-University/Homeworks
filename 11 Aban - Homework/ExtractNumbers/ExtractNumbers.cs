@@ -1,8 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;
 Console.WriteLine("Input > ");
-var input = Console.ReadLine();
-input += " ";
+var input = Console.ReadLine() + " ";
 int Current_Input_Index = 0;
 int Integer_start = 0;
 int Integer_len = 0;
