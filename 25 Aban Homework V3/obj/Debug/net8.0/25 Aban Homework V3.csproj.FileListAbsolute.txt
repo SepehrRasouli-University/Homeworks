@@ -1,0 +1,15 @@
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/bin/Debug/net8.0/25 Aban Homework V3
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/bin/Debug/net8.0/25 Aban Homework V3.deps.json
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/bin/Debug/net8.0/25 Aban Homework V3.runtimeconfig.json
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/bin/Debug/net8.0/25 Aban Homework V3.dll
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/bin/Debug/net8.0/25 Aban Homework V3.pdb
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.AssemblyInfoInputs.cache
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.AssemblyInfo.cs
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.csproj.CoreCompileInputs.cache
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.sourcelink.json
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.dll
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/refint/25 Aban Homework V3.dll
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.pdb
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/25 Aban Homework V3.genruntimeconfig.cache
+/home/sepehr/Homework/Homework/25 Aban Homework V3/25 Aban Homework V3/obj/Debug/net8.0/ref/25 Aban Homework V3.dll
