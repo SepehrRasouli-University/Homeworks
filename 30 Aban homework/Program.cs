@@ -23,7 +23,7 @@ void main(){
     if (FileExtension == "txt"){
         TxtWriter txtWriter = new TxtWriter();
         txtWriter.WriteText(EncodedData.Item1,$"encoded.{FileExtension}");
-        txtWriter.WriteText(DecodedData,$"encoded.{FileExtension}");
+        txtWriter.WriteText(DecodedData,$"decoded.{FileExtension}");
     }
     else if (FileExtension == "ini"){
         IniWriter iniWriter = new IniWriter();
