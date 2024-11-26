@@ -16,10 +16,10 @@ class Cipher{
         int RecieverNumericalValue = 0;
         int SenderNumericalValue = 0;
         foreach(char c in reciever.ToLower()){
-            RecieverNumericalValue += alphabet.IndexOf(c);
+            RecieverNumericalValue += alphabet.IndexOf(c) + 1;
         }
         foreach(char c in sender.ToLower()){
-            SenderNumericalValue += alphabet.IndexOf(c);
+            SenderNumericalValue += alphabet.IndexOf(c) + 1;
         }
         if (type == 0) return RecieverNumericalValue + SenderNumericalValue;
         else{
