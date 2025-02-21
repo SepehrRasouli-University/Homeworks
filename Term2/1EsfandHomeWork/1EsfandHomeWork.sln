@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homeworks", "Homeworks", "{E01EADD2-14D4-419B-9E01-C45F893D2F02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Term2", "Term2", "{38D6C0F5-1418-45D9-9815-5839B4BDA98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1EsfandHomeWork", "Homeworks\Term2\1EsfandHomeWork\1EsfandHomeWork.csproj", "{1199DBCE-687A-4384-B4AB-77295B075C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1199DBCE-687A-4384-B4AB-77295B075C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1199DBCE-687A-4384-B4AB-77295B075C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1199DBCE-687A-4384-B4AB-77295B075C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1199DBCE-687A-4384-B4AB-77295B075C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38D6C0F5-1418-45D9-9815-5839B4BDA98C} = {E01EADD2-14D4-419B-9E01-C45F893D2F02}
+		{1199DBCE-687A-4384-B4AB-77295B075C3B} = {38D6C0F5-1418-45D9-9815-5839B4BDA98C}
+	EndGlobalSection
+EndGlobal
