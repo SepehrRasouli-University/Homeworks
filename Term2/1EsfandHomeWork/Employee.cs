@@ -124,6 +124,10 @@ internal class SimpleEmployee : EmployeeBase
             throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
+    public override decimal CalculateSalary()
+    {
+        return BaseSalary * (int)EmployeeRatios.Simple * (1 + (Level / 10m)) * TotalHoursInMonth + BaseSalary * ExtraTimePerHours * (1 + (Level / 10m)) * (int)EmployeeRatios.Simple * 1.2m;
+    }
 }
 
 internal class SeniorEmployee : EmployeeBase
@@ -140,6 +144,10 @@ internal class SeniorEmployee : EmployeeBase
         else if ((totalHours-extraTime) > (int)WorkingHours.Senior){
             throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
+    }
+    public override decimal CalculateSalary()
+    {
+        return BaseSalary * (int)EmployeeRatios.Senior * (1 + (Level / 10m)) * TotalHoursInMonth + BaseSalary * ExtraTimePerHours * (1 + (Level / 10m)) * (int)EmployeeRatios.Senior * 1.2m;
     }
 }
 
@@ -158,6 +166,10 @@ internal class ManagerEmployee : EmployeeBase
             throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
+    public override decimal CalculateSalary()
+    {
+        return BaseSalary * (int)EmployeeRatios.Manager * (1 + (Level / 10m)) * TotalHoursInMonth + BaseSalary * ExtraTimePerHours * (1 + (Level / 10m)) * (int)EmployeeRatios.Manager * 1.2m;
+    }
 }
 internal class HeadOfDepartmentEmployee : EmployeeBase
 {
@@ -173,6 +185,10 @@ internal class HeadOfDepartmentEmployee : EmployeeBase
         else if ((totalHours-extraTime) > (int)WorkingHours.HeadOfDepartment){
             throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
+    }
+    public override decimal CalculateSalary()
+    {
+        return BaseSalary * (int)EmployeeRatios.HeadOfDepartment * (1 + (Level / 10m)) * TotalHoursInMonth + BaseSalary * ExtraTimePerHours * (1 + (Level / 10m)) * (int)EmployeeRatios.HeadOfDepartment * 1.2m;
     }
 }
 
@@ -191,6 +207,10 @@ internal class DeputyEmployee : EmployeeBase
             throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
+    public override decimal CalculateSalary()
+    {
+        return BaseSalary * (int)EmployeeRatios.Deputy * (1 + (Level / 10m)) * TotalHoursInMonth + BaseSalary * ExtraTimePerHours * (1 + (Level / 10m)) * (int)EmployeeRatios.Deputy * 1.2m;
+    }
 }
 
 internal class CEOEmployee : EmployeeBase
@@ -207,6 +227,10 @@ internal class CEOEmployee : EmployeeBase
         else if ((totalHours-extraTime) > (int)WorkingHours.CEO){
             throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
+    }
+    public override decimal CalculateSalary()
+    {
+        return BaseSalary * (int)EmployeeRatios.CEO * (1 + (Level / 10m)) * TotalHoursInMonth + BaseSalary * ExtraTimePerHours * (1 + (Level / 10m)) * (int)EmployeeRatios.CEO * 1.2m;
     }
 }
 

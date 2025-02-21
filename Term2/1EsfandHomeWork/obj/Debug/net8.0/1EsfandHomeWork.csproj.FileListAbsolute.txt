@@ -1,0 +1,15 @@
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/bin/Debug/net8.0/1EsfandHomeWork
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/bin/Debug/net8.0/1EsfandHomeWork.deps.json
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/bin/Debug/net8.0/1EsfandHomeWork.runtimeconfig.json
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/bin/Debug/net8.0/1EsfandHomeWork.dll
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/bin/Debug/net8.0/1EsfandHomeWork.pdb
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.AssemblyInfoInputs.cache
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.AssemblyInfo.cs
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.csproj.CoreCompileInputs.cache
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.sourcelink.json
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.dll
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/refint/1EsfandHomeWork.dll
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.pdb
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/1EsfandHomeWork.genruntimeconfig.cache
+/home/sepehr/hafezi/Homeworks/Term2/1EsfandHomeWork/obj/Debug/net8.0/ref/1EsfandHomeWork.dll
