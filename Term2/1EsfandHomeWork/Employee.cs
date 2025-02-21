@@ -38,6 +38,17 @@ internal enum InsuranceDuration
     CEO = 7,
 }
 
+internal enum BaseSalaryRange
+{
+    Simple = 100,
+    Senior = 300,
+    Manager = 500,
+    HeadOfDepartment = 600,
+    Deputy = 700,
+    CEO = 800,
+
+}
+
 public static class NationalCodeValidator
 {
     public static bool IsNationalCodeValid(long nationalCode)
@@ -104,7 +115,13 @@ internal class SimpleEmployee : EmployeeBase
         : base(firstName, lastName, level, baseSalary, totalHours, extraTime)
     {
         if (extraTime > (int)EmployeeMaxExtraHours.Simple){
-            throw new InvalidDataException("Extra time is more than the max extra hours for the simple employee type.");
+            throw new InvalidDataException("Extra time is more than the allowed maximum.");
+        }
+        else if (baseSalary > (int)BaseSalaryRange.Simple){
+            throw new InvalidDataException("Base salary is more than maximum.");
+        }
+        else if ((totalHours-extraTime) > (int)WorkingHours.Simple){
+            throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
 }
@@ -114,8 +131,14 @@ internal class SeniorEmployee : EmployeeBase
     public SeniorEmployee(string firstName, string lastName, int level, decimal baseSalary,int totalHours, int extraTime)
         : base(firstName, lastName, level, baseSalary, totalHours, extraTime)
     {
-        if (extraTime > (int)EmployeeMaxExtraHours.Simple){
+        if (extraTime > (int)EmployeeMaxExtraHours.Senior){
             throw new InvalidDataException("Extra time is more than the max extra hours for the simple employee type.");
+        }
+        else if (baseSalary > (int)BaseSalaryRange.Senior){
+            throw new InvalidDataException("Base salary is more than maximum.");
+        }
+        else if ((totalHours-extraTime) > (int)WorkingHours.Senior){
+            throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
 }
@@ -125,8 +148,14 @@ internal class ManagerEmployee : EmployeeBase
     public ManagerEmployee(string firstName, string lastName, int level, decimal baseSalary,int totalHours, int extraTime)
         : base(firstName, lastName, level, baseSalary, totalHours, extraTime)
     {
-        if (extraTime > (int)EmployeeMaxExtraHours.Simple){
+        if (extraTime > (int)EmployeeMaxExtraHours.Manager){
             throw new InvalidDataException("Extra time is more than the max extra hours for the simple employee type.");
+        }
+        else if (baseSalary > (int)BaseSalaryRange.Manager){
+            throw new InvalidDataException("Base salary is more than maximum.");
+        }
+        else if ((totalHours-extraTime) > (int)WorkingHours.Manager){
+            throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
 }
@@ -135,6 +164,15 @@ internal class HeadOfDepartmentEmployee : EmployeeBase
     public HeadOfDepartmentEmployee(string firstName, string lastName, int level, decimal baseSalary, int totalHours, int extraTime)
         : base(firstName, lastName, level, baseSalary, totalHours, extraTime)
     {
+        if (extraTime > (int)EmployeeMaxExtraHours.HeadOfDepartment){
+            throw new InvalidDataException("Extra time is more than the max extra hours for the simple employee type.");
+        }
+        else if (baseSalary > (int)BaseSalaryRange.HeadOfDepartment){
+            throw new InvalidDataException("Base salary is more than maximum.");
+        }
+        else if ((totalHours-extraTime) > (int)WorkingHours.HeadOfDepartment){
+            throw new InvalidDataException("Total working hours is more than the allowed maximum.");
+        }
     }
 }
 
@@ -143,8 +181,14 @@ internal class DeputyEmployee : EmployeeBase
     public DeputyEmployee(string firstName, string lastName, int level, decimal baseSalary, int totalHours, int extraTime)
         : base(firstName, lastName, level, baseSalary, totalHours, extraTime)
     {
-        if (extraTime > (int)EmployeeMaxExtraHours.Simple){
+        if (extraTime > (int)EmployeeMaxExtraHours.Deputy){
             throw new InvalidDataException("Extra time is more than the max extra hours for the simple employee type.");
+        }
+        else if (baseSalary > (int)BaseSalaryRange.Deputy){
+            throw new InvalidDataException("Base salary is more than maximum.");
+        }
+        else if ((totalHours-extraTime) > (int)WorkingHours.Deputy){
+            throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
 }
@@ -154,8 +198,14 @@ internal class CEOEmployee : EmployeeBase
     public CEOEmployee(string firstName, string lastName, int level, decimal baseSalary, int totalHours, int extraTime)
         : base(firstName, lastName, level, baseSalary, totalHours, extraTime)
     {
-        if (extraTime > (int)EmployeeMaxExtraHours.Simple){
+        if (extraTime > (int)EmployeeMaxExtraHours.CEO){
             throw new InvalidDataException("Extra time is more than the max extra hours for the simple employee type.");
+        }
+        else if (baseSalary > (int)BaseSalaryRange.CEO){
+            throw new InvalidDataException("Base salary is more than maximum.");
+        }
+        else if ((totalHours-extraTime) > (int)WorkingHours.CEO){
+            throw new InvalidDataException("Total working hours is more than the allowed maximum.");
         }
     }
 }
