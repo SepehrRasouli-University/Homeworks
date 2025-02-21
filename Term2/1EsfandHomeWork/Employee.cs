@@ -105,7 +105,7 @@ internal abstract class EmployeeBase : IEmployee
 
     public override string ToString()
     {
-        return $"{FirstName} {LastName} - National Code: {NationalCode} - Salary: {CalculateSalary():C}";
+        return $"{FirstName} {LastName} - National Code: {NationalCode}";
     }
 }
 

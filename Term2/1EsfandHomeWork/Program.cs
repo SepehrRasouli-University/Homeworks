@@ -3,7 +3,10 @@
     static void Main()
     {
         var employees = new Dictionary<long, IEmployee>();
-
+        var validEmployeeTypes = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+        {
+            "Simple", "Senior", "Manager", "HeadOfDepartment", "Deputy", "CEO"
+        };
         while (true)
         {
             foreach (var kvp in employees)
@@ -11,7 +14,7 @@
                 Console.WriteLine($"National Code: {kvp.Key}, Employee: {kvp.Value}");
             }
 
-            Console.WriteLine("Would you like to calculate salary for any employee? (yes/no): ");
+            Console.WriteLine("Would you like to calculate salary for any employee? (y/n): ");
             string calculateSalaryResponse = Keyboard.GetKey("yn");
             if (calculateSalaryResponse == "y")
             {
@@ -32,28 +35,32 @@
                 Console.Write("Employee Type (simple, senior, manager, headofdepartment, deputy, ceo): ");
                 string type = Keyboard.GetKey("abcdefghijklmnopqrstuvwxyz");
 
+                if (!validEmployeeTypes.Contains(type)){
+                    continue;
+                }
+                
                 if (type == "exit") break;
 
                 Console.Write("First Name: ");
-                string firstName = Keyboard.GetKey("abcdefghijklmnopqrstuvwxyz");
+                string firstName = Keyboard.GetKey("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ");
 
                 Console.Write("Last Name: ");
-                string lastName = Keyboard.GetKey("abcdefghijklmnopqrstuvwxyz");
+                string lastName = Keyboard.GetKey("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ");
 
                 Console.Write("National Code (10 digits): ");
                 long nationalCode = Convert.ToInt64(Keyboard.GetKey("1234567890"));
 
                 Console.Write("Level: ");
-                int level = int.Parse(Keyboard.GetKey("123456789"));
+                int level = int.Parse(Keyboard.GetKey("1234567890"));
 
                 Console.Write("Base Salary: ");
-                decimal baseSalary = decimal.Parse(Keyboard.GetKey("123456789."));
+                decimal baseSalary = decimal.Parse(Keyboard.GetKey("1234567890."));
 
                 Console.Write("Total Hours in Month: ");
-                int totalHours = int.Parse(Keyboard.GetKey("123456789"));
+                int totalHours = int.Parse(Keyboard.GetKey("1234567890"));
 
                 Console.Write("Extra Time Hours: ");
-                int extraTime = int.Parse(Keyboard.GetKey("123456789"));
+                int extraTime = int.Parse(Keyboard.GetKey("1234567890"));
 
                 try
                 {
